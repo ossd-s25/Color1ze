@@ -1,6 +1,6 @@
 # MIT License
 
-## Copyright (c) [2025] [Ajok Thon, David Mo, Shamaamah Ahman, Simon Sherbet]
+## Copyright (c) [2025] [Ajok Thon, David Mo, Shamaamah Ahmad, Simon Sherbet]
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
