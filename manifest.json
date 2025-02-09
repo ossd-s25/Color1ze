@@ -1,0 +1,12 @@
+{
+    "manifest_version": 3,
+    "name": "Color1ze",
+    "version": "1.0",
+    "description": "A Chrome extension to change text color on webpages.",
+    "content_scripts": [
+      {
+        "matches": ["<all_urls>"],
+        "js": ["content.js"]
+      }
+    ]
+  }
