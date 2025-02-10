@@ -1,2 +1,2 @@
-console.log("Chrome Extension");
-document.body.style.color = "red";
+console.log("Loaded Color1ze");
+document.body.classList.add("rainbow-text");
