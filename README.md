@@ -8,11 +8,9 @@ Color1ze is a Chrome extension that allows users to customize text color on any 
 
 This extension demonstrates how to manipulate webpage text styling using the Chrome Extensions API. Users can:
 
-- Select a solid color for text on a webpage.
-
 - Apply a rainbow gradient effect to text dynamically.
 
-- Toggle between different styles effortlessly.
+- Toggle on and off the extention effortlessly.
 
 ### How to Use
 
@@ -20,9 +18,7 @@ This extension demonstrates how to manipulate webpage text styling using the Chr
 
 2. Open any webpage.
 
-3. Use the extension’s interface to choose your desired text color.
-
-4. Enjoy your customized browsing experience!
+3. Enjoy your customized browsing experience!
 
 ## Implementation Notes
 
